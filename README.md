@@ -38,18 +38,6 @@ hashlib
 
 Nenhuma biblioteca externa é necessária.
 
-
-## Sobre Segurança
-
-As senhas não são armazenadas em texto puro
-
-É utilizado hash SHA-256 para proteger os dados
-
-O sistema possui validações básicas de entrada
-
-Este projeto tem fins educacionais e não substitui sistemas de produção.
-
-
 ## Observação Final
 
 Este projeto faz parte do meu processo de aprendizado em programação e será evoluído futuramente para versões mais completas e profissionais.
