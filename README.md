@@ -1,4 +1,4 @@
-## Sistema CRUD em Python (Terminal)
+## Sistema CRUD em Python 
 
 Projeto de estudo desenvolvido em Python, com foco em lógica de programação, POO, persistência de dados e boas práticas iniciais de segurança.
 
